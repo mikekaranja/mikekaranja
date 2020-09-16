@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Mike has a lot of ideas.](https://i.ibb.co/VqfW2hW/githubcover.png)](https://www.mikekaranja.tech)
+
+Hi. I’m Mike. I am a web and mobile developer. I am proficient in python, html/css/javascript, node, android and vue/angular. 
+
+🌱 I’m currently learning machine learning with python. I am learning it by building a program to predict the outcome of sporting events. 
+
+📫 How to reach me: email: mikekaranja63@gmail.com
 
 <!--
 **mikekaranja/mikekaranja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
