@@ -1,6 +1,6 @@
 [![Mike has a lot of ideas.](https://i.ibb.co/VqfW2hW/githubcover.png)](https://www.mikekaranja.tech)
 
-Hi. I’m Mike. I am a web and mobile developer. I am proficient in Vue js, python/django, html/css/javascript, node, android and angular. 
+Hi. I’m Mike. I am a Full stack web developer. I am proficient in Vue js, python/django, html/css/javascript, node, android and angular. 
 
 🌱 I’m currently learning machine learning with python. I am learning it by building a program to predict the outcome of sporting events. 
 
