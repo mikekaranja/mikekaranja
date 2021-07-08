@@ -2,8 +2,7 @@
 
 Hi. I’m Mike. I am a Full stack web developer. I am proficient in Vue.js, nuxt.js, react.js, python/django, html/css/javascript, node, android and angular.js. 
 
-🌱 I recently got beta access to the revolutionary new GPT-3 API by openAI and I am currently building a top secret content generation application with the API. I am also learning machine learning with python. I am learning it by building a program to predict the outcome of sporting events. 
-
+🌱 I am currently using GPT-3 API by openAI to build a content generation application.
 📫 How to reach me: email: mikekaranja63@gmail.com
 
 <!--
