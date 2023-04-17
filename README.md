@@ -1,8 +1,8 @@
 [![Mike has a lot of ideas.](https://i.ibb.co/VqfW2hW/githubcover.png)](https://www.mikekaranja.tech)
 
-Hi. I’m Mike. I am a Full stack web developer. I am proficient in Vue.js, nuxt.js, react.js, python/django, html/css/javascript, node, android and angular.js. 
+Hi. I’m Mike. I am a Full stack web developer. I am proficient in Vue.js, nuxt.js, react.js, python/django/Fast API, html/css/javascript, node, android.
 
-🌱 I am currently using GPT-3 API by openAI to build a content generation application.
+🌱 Currently learning machine learning.
 📫 How to reach me: email: mikekaranja63@gmail.com
 
 <!--
