@@ -1,4 +1,4 @@
-[![Mike has a lot of ideas.](https://i.ibb.co/VqfW2hW/githubcover.png)](https://www.mikekaranja.tech)
+[![Mike has a lot of ideas.](https://www.mikekaranja.tech)
 
 Hi. I’m Mike. I am a Full stack web developer. I am proficient in Vue.js, nuxt.js, react.js, python/django/Fast API, html/css/javascript, node, android.
 
