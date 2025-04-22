@@ -1,6 +1,6 @@
 (https://www.mikekaranja.dev)
 
-Hi. I’m Mike. I am a Full-stack web developer. I am proficient in vue.js, nuxt.js, react.js, python/Django/Fast API, HTML/CSS/Javascript, typescript, node.js, and mobile applications.
+Hi. I’m Mike. I am a web developer. I am proficient in vue.js, nuxt.js, react.js, python/Django/Fast API, HTML/CSS/Javascript, typescript, node.js, and mobile applications.
 
 🌱 Currently learning machine learning.
 📫 How to reach me: email: mikekaranja63@gmail.com
